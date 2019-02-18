@@ -28,7 +28,7 @@ class Index extends React.Component {
 
     return (
       <Layout>
-        <Helmet title="Rounds Chat - Healthcare" />
+        <Helmet title="Rounds Chat - Secure and fast healthcare" />
 
         <Header />
 
