@@ -2,15 +2,15 @@ module.exports = {
   siteMetadata: {
     title: "Rounds Chat",
     author: "Rounds Chat",
-    description: "Rounds Chat - "
+    description: "Rounds Chat - Secure and fast healthcare chat."
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'gatsby-starter-default',
-        short_name: 'starter',
+        name: 'Rounds Chat',
+        short_name: 'Rounds Chat',
         start_url: '/',
         background_color: '#663399',
         theme_color: '#663399',

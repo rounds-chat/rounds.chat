@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-stellar",
-  "description": "Gatsby Starter - Stellar by HTML5 UP",
+  "name": "rounds-chat",
+  "description": "Rounds Chat - Secure and fast healthcare chat",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Rounds Chat",
   "dependencies": {
     "gatsby": "^2.0.76",
     "gatsby-plugin-manifest": "^2.0.9",
